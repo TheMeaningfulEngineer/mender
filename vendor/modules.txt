@@ -31,7 +31,6 @@ github.com/mendersoftware/openssl/utils
 ## explicit
 github.com/mendersoftware/progressbar
 # github.com/minio/sha256-simd v0.1.1
-## explicit
 github.com/minio/sha256-simd
 # github.com/pkg/errors v0.9.1
 ## explicit
@@ -62,8 +61,9 @@ github.com/urfave/cli/v2
 # golang.org/x/crypto v0.0.0-20191117063200-497ca9f6d64f
 ## explicit
 golang.org/x/crypto/ssh/terminal
-# golang.org/x/sys v0.0.0-20200116001909-b77594299b42
+# golang.org/x/sys v0.8.0
 ## explicit
+golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 golang.org/x/sys/windows
 # gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776
